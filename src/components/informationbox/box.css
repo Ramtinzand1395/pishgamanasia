@@ -1,0 +1,5 @@
+.box{
+    width: 70vh;
+    height: 30vh;
+    transform: translateX(50%);
+}
