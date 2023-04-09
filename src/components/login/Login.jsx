@@ -9,6 +9,7 @@ const Login = () => {
   return (
     <div className="loginPage">
       <div className="h-2/6 sm:w-full md:w-6/12 border-gray-200 drop-shadow-xl border-2 rounded-2xl">
+        <p>salam</p>
         <p className="text-center">ورود</p>
         <Formik
           initialValues={{
