@@ -8,6 +8,7 @@ const Login = () => {
   const { loginContext } = useContext(MainContext);
   return (
     <div className="loginPage">
+      <h1>salam</h1>
       <div className="h-2/6 sm:w-full md:w-6/12 border-gray-200 drop-shadow-xl border-2 rounded-2xl">
         <p className="text-center">ورود</p>
         <Formik
